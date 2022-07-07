@@ -1,0 +1,23 @@
+{
+  "name": "metamask-controllers-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwinYardi/metamask-controllers-example.git"
+  },
+  "author": "Ashwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwinYardi/metamask-controllers-example/issues"
+  },
+  "homepage": "https://github.com/ashwinYardi/metamask-controllers-example#readme",
+  "dependencies": {
+    "@metamask/controllers": "^30.0.2",
+    "simple-encryptor": "^4.0.0"
+  }
+}
